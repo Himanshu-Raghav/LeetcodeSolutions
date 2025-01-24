@@ -22,17 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Union Find
 |  |
 | ------- |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->

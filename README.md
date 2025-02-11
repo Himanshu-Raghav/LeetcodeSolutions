@@ -110,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2478-longest-nice-subarray) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3447-clear-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2478-longest-nice-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->

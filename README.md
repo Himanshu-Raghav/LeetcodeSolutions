@@ -99,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [1364-tuple-with-same-product](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/3447-clear-digits) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [2478-longest-nice-subarray](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2478-longest-nice-subarray) |
 ## Sliding Window
 |  |

@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [2478-longest-nice-subarray](https://github.com/Himanshu-Raghav/LeetcodeSolutions/tree/master/2478-longest-nice-subarray) |
 ## Sliding Window
